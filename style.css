@@ -12,3 +12,30 @@ body {
 
 
 }
+/*inicio*/
+
+.logoinicio{
+    width: 225px;
+    height: 226px;
+
+/*Barra de navegacion*/
+
+}
+button{
+    width: 120px; ;
+    height: 32px; ;
+    background-color: black;
+    color: white;
+}
+.Logo{
+    width:105px ;
+    height:99px ;
+}
+header{
+    text-align: right;
+}
+.navegacion{
+    position: relative;
+    right: 130px;
+    top:40px ;
+}
